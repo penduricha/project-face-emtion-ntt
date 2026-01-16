@@ -1,0 +1,4 @@
+Bước 1 Download file face-emotion.ipynb.
+Bước 2 Mở Google Co-lab và upload file lên.
+Bước 3 Chạy thực thi từng cell trong Google Co-lab.
+Bước 4 Mở trang web khi cell cuối cùng thực thi để test thực nghiệm.
